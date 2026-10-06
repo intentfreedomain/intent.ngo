@@ -1,0 +1,2 @@
+Static site — no build step required. Open index.html or deploy the folder to any static host.
+Three.js is loaded from jsDelivr at runtime for the hero 3D scene.
